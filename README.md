@@ -22,6 +22,4 @@ python main.py
 ```
 ## Notes
 This project focuses on applying queueing theory concepts through an interactive interface.
-```md
-## Interface Preview
-![UI Screenshot](ui_screenshot.png)
+
